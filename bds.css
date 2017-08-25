@@ -1,5 +1,19 @@
 .p-article {
-    background-color: rgba(255,255,255,0.7);
+    background-color: rgba(255,255,255,0.9);
     padding: 40px;
     border-radius: 25px;
+}
+
+.p-menu__lists {   
+    padding: 30px;
+    background-color: rgba(255,255,255,0.8);    
+    border-radius: 25px;
+}
+
+.l-header {
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.c-links__icon {   
+    fill: white;
 }
