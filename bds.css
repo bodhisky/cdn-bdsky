@@ -4,6 +4,13 @@
     border-radius: 25px;
 }
 
+
+.l-main{
+    background-color: rgba(255,255,255,0.9);
+    padding: 20px;
+    border-radius: 25px;
+}
+
 .p-menu__lists {   
     padding: 30px;
     background-color: rgba(255,255,255,0.8);    
